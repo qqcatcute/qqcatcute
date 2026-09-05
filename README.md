@@ -1,12 +1,17 @@
-# Hi, I'm 纯瑶 👋
+# 你好，我是吴纯瑶
 
-- 🎓 Computer Science student at Guangdong University of Technology
-- 💻 Interested in full-stack web development, with a focus on React and TypeScript
-- 🤖 Exploring AI Agent application development and product-oriented engineering practice
-- 🌱 I enjoy turning ideas into working products and learning through real projects
+广东工业大学计算机科学与技术专业学生，目前关注全栈 Web 开发与 AI Agent 应用。
 
-## Tech Stack
+## 当前方向
+
+- 从 React 和 TypeScript 前端开发出发，系统补足服务端、数据库与工程化能力。
+- 持续实践以用户体验、性能与稳定性为导向的产品开发。
+- 通过真实项目记录学习、复盘和技术积累。
+
+## 技术栈
 
 React · TypeScript · JavaScript · Node.js · HTML/CSS
 
-> Keep building, keep learning.
+## 学习目标
+
+在实践中完成从前端到全栈的能力升级，构建可用、可维护的产品。
